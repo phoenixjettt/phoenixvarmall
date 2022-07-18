@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoenixvarmall
 - 👀 I’m interested in opportunities for software engineer apprenticeships, where I could further expand my stack into machine learning.
-- 🌱 I’m currently learning Javascript, Python, Java, and Node.js.
+- 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on website design, inventory management apps, and cooking videos.
 - 📫 How to reach me phoenixvarmall@gmail.com
 
